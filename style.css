@@ -37,7 +37,7 @@ p{
     
 }
 section{
-    height: 600px;
+    height: 450px;
     padding: 60px;
 }
 .link-button{
@@ -88,7 +88,7 @@ footer p{
 }
 .bor{
     border-style: solid;
-    margin: 50px 300px;
+    margin: 50px 250px;
     border-radius: 15px;
     background-color: rgb(206, 8, 101);
     color: white;
